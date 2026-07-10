@@ -63,8 +63,11 @@ A Flask-powered web interface is developed to make the prediction system easy to
 ### Application Features:
 
 ✅ Enter flower measurements manually
+
 ✅ Generate instant species predictions
+
 ✅ Connect with trained ML model
+
 ✅ Simple and interactive interface
 
 ---
